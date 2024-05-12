@@ -1,0 +1,25 @@
+body{
+    background-color: azure;
+}
+.col-md-6{
+    margin-top:150px !important;
+     background-color:azure;
+    
+
+}
+input[type=button]
+{
+  width:100% !important;
+  background-color: blue;
+  color: aliceblue;
+  border: 3px solid black;
+  font-weight: bolder;
+
+}
+input[type=text]{
+    width:100%;
+}
+h1{
+    margin:50px;
+    font-weight: bolder;
+}
